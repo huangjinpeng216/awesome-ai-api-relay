@@ -87,6 +87,18 @@ Services are listed **alphabetically**. Listing does **not** imply endorsement. 
 
 ---
 
+
+### l7shop
+
+| Field | Details |
+|-------|---------|
+| **Website** | [l7shop.xyz](https://l7shop.xyz) |
+| **Models** | DeepSeek V4.1-Flash-1017, GLM-5.3, Kimi K3 |
+| **Payment** | CNY (Alipay / WeChat Pay) |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) + Anthropic-compatible (`/v1/messages`) |
+| **Notable Features** | 0.1x rate (10% of official price); dual-protocol support so both OpenAI-style clients and Claude Code / Cursor work out of the box; per-call token usage logs |
+
+---
 ### Ofox.ai
 
 | Field | Details |
